@@ -16,9 +16,9 @@ In either case, run the first code cell. It installs PyPSA if it is missing and 
 
 ## Documents
 
-- [Student guide: workshop](docs/Workshop_Guide.pdf): steps, group roles, key terms and help.
-- [Student guide: learning resources](docs/Learning_resources.pdf): curated links for Python, PyPSA, courses, open data and papers.
-- [Slides](slides/Workshop_Slides.pdf): the presentation used in the session.
+- Student workshop guide: steps, group roles, key terms and help.
+- Student learning resources: curated links for Python, PyPSA, courses, open data and papers.
+- Slides: the presentation used in the session.
 
 ## Data
 
