@@ -1,0 +1,19 @@
+cff-version: 1.2.0
+message: "If you use these materials, please cite them as below."
+title: "Python for Energy System Modelling: workshop materials"
+type: software
+authors:
+  - family-names: "Wafad"
+    given-names: "Ammar Ahmed"
+date-released: 2026-10-17
+version: "1.0.0"
+license: MIT
+repository-code: "https://github.com/ammarahmedwafad/PyPSA-energy-modelling-workshop"
+keywords:
+  - energy system modelling
+  - PyPSA
+  - Python
+  - solar PV
+  - battery storage
+  - carbon pricing
+  - teaching
